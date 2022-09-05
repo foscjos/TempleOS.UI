@@ -1,2 +1,2 @@
-# TempleOs.UI
+# TempleOS.UI
 Blazor frontend for TempleOs
